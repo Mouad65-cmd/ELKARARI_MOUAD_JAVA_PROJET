@@ -5,14 +5,10 @@
 
 ---
 
-## 👥 Équipe de Réalisation (Groupe de 3 à 4 Personnes)
+## 👤 Réalisé par
 
-| N° | Nom & Prénom | CNE / Massar | Filière & Année |
-|---|---|---|---|
-| **1** | [Nom & Prénom Étudiant 1] | [CNE / Apogée] | Génie Informatique / ENSA Safi |
-| **2** | [Nom & Prénom Étudiant 2] | [CNE / Apogée] | Génie Informatique / ENSA Safi |
-| **3** | [Nom & Prénom Étudiant 3] | [CNE / Apogée] | Génie Informatique / ENSA Safi |
-| **4** | [Nom & Prénom Étudiant 4] | [CNE / Apogée] | Génie Informatique / ENSA Safi |
+**ELKARARI MOUAD**  
+*Génie Informatique — ENSA Safi, Université Cadi Ayyad Marrakech*
 
 ---
 

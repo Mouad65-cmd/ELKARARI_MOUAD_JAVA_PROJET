@@ -1,2 +1,2 @@
 Main-Class: ensa.paint.Main
-Created-By: ENSA Safi - UCA Marrakech
+Created-By: ELKARARI MOUAD - ENSA Safi
