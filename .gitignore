@@ -1,0 +1,9 @@
+# Temporary and IDE files
+.idea/
+.vscode/
+*.log
+*.tmp
+.DS_Store
+
+# Compiled classes (executable jar is kept in repository)
+bin/
